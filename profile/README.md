@@ -15,5 +15,3 @@ Our approach is collaborative and data-driven. We work closely with our clients 
 
 ## Get Involved  
 - Report issues or submit PRs on our [GitHub repos](https://github.com/orgs/KalvadTech/repositories).  
-
-**Supporting open-source innovation in databases and infrastructure.**  
