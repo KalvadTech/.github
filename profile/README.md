@@ -43,18 +43,6 @@
   <img src="https://img.shields.io/badge/Years%20in%20open%20source-6%2B-6f42c1" alt="6+ years in open source" />
 </p>
 
-### Projects we maintain
-
-| Project | What it does |
-| --- | --- |
-| [Redmine MCP](https://github.com/KalvadTech/redmine-mcp) | Stateless MCP server for Redmine — LLM clients read/write issues, wiki, time entries |
-| [Woodpecker MCP](https://github.com/KalvadTech/woodpecker-mcp) | Stateless MCP server for Woodpecker CI — AI assistants manage pipelines and workflows |
-| [Infraninja](https://github.com/KalvadTech/infraninja) | Automates infrastructure setup and common service deployments |
-| [Hushhush](https://github.com/KalvadTech/hushhush) | Password-protect your data — a modern, drop-in replacement for privy |
-| [Django Cloudflare Images](https://github.com/KalvadTech/django-cloudflare-images) | Integrates Cloudflare Images into Django projects |
-| [Django Glide](https://github.com/KalvadTech/django-glide) | Responsive Glide.js carousels for Django |
-| [Woodpecker Opengrep](https://github.com/KalvadTech/woodpecker-opengrep) | Woodpecker CI plugin for static code analysis with Opengrep |
-| [Redmine Slack](https://github.com/KalvadTech/redmine-slack) | Per-project Slack notifications for Redmine — zero extra gems |
 
 ### Projects we contribute to and support
 
